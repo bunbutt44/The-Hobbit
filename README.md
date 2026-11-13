@@ -214,4 +214,4 @@ The Hobbit is a full free version with all features and updates included. No tri
 Ready to embark on your adventure? Download The Hobbit today and join Bilbo Baggins on his epic quest!
 
 ---
-**Last updated:** 2026-11-12 18:44:52 UTC
+**Last updated:** 2026-11-13 00:00:00 UTC
